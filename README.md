@@ -2,7 +2,7 @@
 Other stuff (mainly not biologically related)
 
 ## WizardIdle
-To learn about object oriented programming, I decided to create a small game-like app in Javascript, you can see the repository here: https://github.com/wizardidle/wizardidle.github.io and the software working here: https://wizardidle.github.io/
+To learn about object oriented programming, I decided to create a small game-like app in Javascript, you can see the repository here: https://github.com/wizardidle/wizardidle.github.io and the software working here: https://wizardidle.github.io/ (not finished yet!)
 
 ## Mendeley or Zotero styles for some journals
 Usually I modify (from other CSL) or create my CSL files for software like Mendeley for some journals:
